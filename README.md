@@ -32,7 +32,7 @@
 
 [![Instagram](https://img.shields.io/badge/Instagram-red?style=for-the-badge\&logo=instagram)](https://www.linkedin.com/in/sharathchandra07/)
 
-[![Gmail](https://img.shields.io/badge/Gmail-orange?style=for-the-badge\&logo=gmail)](mailto:sharath9143@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-orange?style=for-the-badge\&logo=gmail)](sharath9143@gmail.com)
 
 ---
 
