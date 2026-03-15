@@ -30,7 +30,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge\&logo=linkedin)](https://www.linkedin.com/in/sharathchandra07/)
 
-[![Instagram](https://img.shields.io/badge/Instagram-red?style=for-the-badge\&logo=instagram)](https://www.linkedin.com/in/sharathchandra07/)
+[![Instagram](https://img.shields.io/badge/Instagram-red?style=for-the-badge\&logo=instagram)](https://www.instagram.com/_sharath._.07/)
 
 [![Gmail](https://img.shields.io/badge/Gmail-orange?style=for-the-badge\&logo=gmail)](sharath9143@gmail.com)
 
