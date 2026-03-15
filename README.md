@@ -1,3 +1,18 @@
+<h1 align="center">Hi 👋, I'm Sharath</h1>
+
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=AI+%26+Data+Science+Student;Full+Stack+Developer;DevOps+Enthusiast;Always+Learning+New+Things" />
+</p>
+
+<p align="center">
+🚀 Passionate about Full Stack Development | DevOps | Cloud Technologies
+</p>
+
+---
+
+## 📊 GitHub Activity Graph
+
+[![Sharath's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=sharath-444\&theme=tokyo-night)](https://github.com/sharath-444)
 
 
 ## 🚀 About Me
