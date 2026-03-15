@@ -1,21 +1,75 @@
-# 💫 About Me:
-👋 Hi, I'm Sharath :)<br><br>🎓 Artificial Intelligence & Data Science Engineering Student<br>💻 Passionate about Full Stack Development, DevOps, and Cloud Technologies<br>🚀 Always learning and building new projects.<br><br>🚀 About Me<br><br>🔭 Currently working on Full Stack & DevOps Projects<br><br>🌱 Learning Docker, Kubernetes, CI/CD Pipelines<br><br>👨‍💻 Interested in Web Development, Networking, and AI
+---
 
+## 🚀 About Me
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/_sharath._.07/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/sharathchandra07/) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/https://pin.it/7pgsbV640) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sharath9143@gmail.com) 
-
-# 💻 Tech Stack:
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=sharath-444&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=sharath-444&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=sharath-444&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+* 🎓 AI & Data Science Engineering Student
+* 💻 Passionate about **Full Stack Development, DevOps & Cloud Technologies**
+* 🚀 Currently building **Full Stack & DevOps projects**
+* 🌱 Learning **Docker, Kubernetes, CI/CD Pipelines**
+* 🎯 Interested in **Web Development, Networking & AI**
+* ⚡ Love building real-world projects and exploring new technologies
 
 ---
-[![](https://visitcount.itsvg.in/api?id=sharath-444&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🌐 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge\&logo=linkedin\&logoColor=white)](#)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge\&logo=instagram\&logoColor=white)](#)
+[![Pinterest](https://img.shields.io/badge/Pinterest-E60023?style=for-the-badge\&logo=pinterest\&logoColor=white)](#)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge\&logo=gmail\&logoColor=white)](#)
+
+---
+
+## 🛠 Tech Stack
+
+### 💻 Languages
+
+![Java](https://img.shields.io/badge/Java-orange?style=for-the-badge\&logo=openjdk)
+![Python](https://img.shields.io/badge/Python-blue?style=for-the-badge\&logo=python)
+![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge\&logo=javascript)
+![HTML5](https://img.shields.io/badge/HTML5-orange?style=for-the-badge\&logo=html5)
+![CSS3](https://img.shields.io/badge/CSS3-blue?style=for-the-badge\&logo=css3)
+
+### ⚙️ Frameworks & Tools
+
+![React](https://img.shields.io/badge/React-black?style=for-the-badge\&logo=react)
+![Node.js](https://img.shields.io/badge/Node.js-green?style=for-the-badge\&logo=node.js)
+![Express](https://img.shields.io/badge/Express-grey?style=for-the-badge\&logo=express)
+
+### ☁️ Cloud & DevOps
+
+![Docker](https://img.shields.io/badge/Docker-blue?style=for-the-badge\&logo=docker)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-blue?style=for-the-badge\&logo=kubernetes)
+![Jenkins](https://img.shields.io/badge/Jenkins-red?style=for-the-badge\&logo=jenkins)
+![Vercel](https://img.shields.io/badge/Vercel-black?style=for-the-badge\&logo=vercel)
+![Netlify](https://img.shields.io/badge/Netlify-black?style=for-the-badge\&logo=netlify)
+![Render](https://img.shields.io/badge/Render-black?style=for-the-badge\&logo=render)
+
+### 🗄 Database
+
+![MongoDB](https://img.shields.io/badge/MongoDB-green?style=for-the-badge\&logo=mongodb)
+![SQLite](https://img.shields.io/badge/SQLite-blue?style=for-the-badge\&logo=sqlite)
+
+---
+
+## 📊 GitHub Stats
+
+![Sharath's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sharath-444\&show_icons=true\&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sharath-444\&layout=compact\&theme=tokyonight)
+
+---
+
+## 🔥 GitHub Streak
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=sharath-444\&theme=tokyonight)
+
+---
+
+## 🐍 Contribution Snake
+
+![snake gif](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
+
+---
+
+⭐ *“Code. Learn. Build. Repeat.”*
