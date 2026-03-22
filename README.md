@@ -1,7 +1,7 @@
 <div align="center">
 
-<!-- Fun casual coding GIF -->
-<img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="480" alt="coding gif" />
+<!-- Cool matrix/code rain GIF -->
+<img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="480" alt="coding gif" />
 
 <h1>👋 Hey, I'm D V Sharath Chandra!</h1>
 
@@ -21,7 +21,7 @@
 
 ## 🧠 About Me
 
-<img align="right" src="https://media.giphy.com/media/doing-my-thing-working-from-home/giphy.gif" width="260" alt="chilling and coding gif" />
+<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="270" alt="developer gif" />
 
 ```yaml
 name        : D V Sharath Chandra
@@ -125,9 +125,7 @@ motto       : "Code. Learn. Build. Repeat."
 
 <div align="center">
 
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60" alt="wave gif" />
-
-### *"Code. Learn. Build. Repeat."* 🚀
+*"Code. Learn. Build. Repeat."* 🚀
 
 ⭐ *If you like what you see, drop a star on my repos!*
 
