@@ -1,23 +1,27 @@
 <div align="center">
 
-<!-- Animated Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=gradient&amp;customColorList=6,11,20&amp;height=200&amp;section=header&amp;text=Sharath%20Chandra&amp;fontSize=50&amp;fontColor=fff&amp;animation=twinkling&amp;fontAlignY=35&amp;desc=AI%20%26%20Data%20Science%20%7C%20Full%20Stack%20%7C%20DevOps&amp;descAlignY=60&amp;descSize=18" />
+<!-- Coding GIF Banner -->
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500" alt="coding gif" />
+
+<h1>👋 Hey, I'm Sharath Chandra!</h1>
 
 <!-- Typing Animation -->
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&amp;weight=600&amp;size=22&amp;duration=3000&amp;pause=1000&amp;color=00D4FF&amp;center=true&amp;vCenter=true&amp;width=650&amp;lines=3rd+Year+AI+%26+Data+Science+Student+%F0%9F%8E%93;Full+Stack+Developer+%F0%9F%9A%80;DevOps+%26+Cloud+Enthusiast+%E2%98%81%EF%B8%8F;Always+Learning%2C+Always+Building+%F0%9F%94%A5" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=650&lines=3rd+Year+AI+%26+Data+Science+Student+%F0%9F%8E%93;Full+Stack+Developer+%F0%9F%9A%80;DevOps+%26+Cloud+Enthusiast+%E2%98%81%EF%B8%8F;Always+Learning%2C+Always+Building+%F0%9F%94%A5" alt="Typing SVG" />
 
-<br/>
+<br/><br/>
 
 <!-- Profile Views + Followers -->
-<img src="https://komarev.com/ghpvc/?username=sharath-444&amp;label=Profile+Views&amp;color=00d4ff&amp;style=flat-square" />
+<img src="https://komarev.com/ghpvc/?username=sharath-444&label=Profile+Views&color=00d4ff&style=flat-square" />
 &nbsp;
-<img src="https://img.shields.io/github/followers/sharath-444?label=Followers&amp;style=flat-square&amp;color=00d4ff" />
+<img src="https://img.shields.io/github/followers/sharath-444?label=Followers&style=flat-square&color=00d4ff" />
 
 </div>
 
 ---
 
 ## 🧠 About Me
+
+<img align="right" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="280" alt="developer gif" />
 
 ```yaml
 name        : Sharath Chandra
@@ -29,6 +33,8 @@ learning    : Docker · Kubernetes · CI/CD Pipelines
 interests   : Web Dev · Networking · Artificial Intelligence
 motto       : "Code. Learn. Build. Repeat."
 ```
+
+<br clear="right"/>
 
 ---
 
@@ -79,9 +85,9 @@ motto       : "Code. Learn. Build. Repeat."
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=sharath-444&amp;show_icons=true&amp;theme=tokyonight&amp;border_radius=12&amp;hide_border=false&amp;count_private=true" height="180"/>
+<img src="https://github-readme-stats.vercel.app/api?username=sharath-444&show_icons=true&theme=tokyonight&border_radius=12&count_private=true" height="180"/>
 &nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sharath-444&amp;layout=compact&amp;theme=tokyonight&amp;border_radius=12&amp;hide_border=false" height="180"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sharath-444&layout=compact&theme=tokyonight&border_radius=12" height="180"/>
 
 </div>
 
@@ -91,17 +97,17 @@ motto       : "Code. Learn. Build. Repeat."
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=sharath-444&amp;theme=tokyonight&amp;border_radius=12&amp;date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" />
+<img src="https://streak-stats.demolab.com?user=sharath-444&theme=tokyonight&border_radius=12" alt="GitHub Streak" />
 
 </div>
 
 ---
 
-## 🐍 Contribution Graph
+## 📈 Contribution Graph
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=sharath-444&amp;theme=tokyo-night&amp;radius=12&amp;hide_border=false" alt="Contribution Graph" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=sharath-444&theme=tokyo-night&radius=12" alt="Contribution Graph" />
 
 </div>
 
@@ -111,7 +117,7 @@ motto       : "Code. Learn. Build. Repeat."
 
 <div align="center">
 
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev Quote" />
 
 </div>
 
@@ -119,8 +125,10 @@ motto       : "Code. Learn. Build. Repeat."
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=gradient&amp;customColorList=6,11,20&amp;height=100&amp;section=footer" />
+<img src="https://media.giphy.com/media/jpVnC65DmYeyRL4LHS/giphy.gif" width="70" alt="fire gif" />
 
-*⭐ If you like what you see, consider leaving a star on my repos!*
+### *"Code. Learn. Build. Repeat."*
+
+⭐ *If you like what you see, consider leaving a star on my repos!*
 
 </div>
