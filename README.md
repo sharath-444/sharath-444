@@ -3,7 +3,7 @@
 <!-- Coding GIF Banner -->
 <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500" alt="coding gif" />
 
-<h1>👋 Hey, I'm Sharath Chandra!</h1>
+<h1>👋 Hey, I'm D V Sharath Chandra!</h1>
 
 <!-- Typing Animation -->
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=650&lines=3rd+Year+AI+%26+Data+Science+Student+%F0%9F%8E%93;Full+Stack+Developer+%F0%9F%9A%80;DevOps+%26+Cloud+Enthusiast+%E2%98%81%EF%B8%8F;Always+Learning%2C+Always+Building+%F0%9F%94%A5" alt="Typing SVG" />
