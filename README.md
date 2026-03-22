@@ -1,7 +1,7 @@
 <div align="center">
 
-<!-- Coding GIF Banner -->
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500" alt="coding gif" />
+<!-- Fun casual coding GIF -->
+<img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="480" alt="coding gif" />
 
 <h1>👋 Hey, I'm D V Sharath Chandra!</h1>
 
@@ -21,11 +21,11 @@
 
 ## 🧠 About Me
 
-<img align="right" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="280" alt="developer gif" />
+<img align="right" src="https://media.giphy.com/media/doing-my-thing-working-from-home/giphy.gif" width="260" alt="chilling and coding gif" />
 
 ```yaml
-name        : Sharath Chandra
-location    : India 🇮🇳
+name        : D V Sharath Chandra
+location    : Tumkur, India 🇮🇳
 education   : B.E. AI & Data Science — 3rd Year
 focus       : Full Stack Development · DevOps · Cloud
 currently   : Building Full Stack & DevOps Projects
@@ -125,10 +125,10 @@ motto       : "Code. Learn. Build. Repeat."
 
 <div align="center">
 
-<img src="https://media.giphy.com/media/jpVnC65DmYeyRL4LHS/giphy.gif" width="70" alt="fire gif" />
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60" alt="wave gif" />
 
-### *"Code. Learn. Build. Repeat."*
+### *"Code. Learn. Build. Repeat."* 🚀
 
-⭐ *If you like what you see, consider leaving a star on my repos!*
+⭐ *If you like what you see, drop a star on my repos!*
 
 </div>
